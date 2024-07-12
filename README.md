@@ -1,6 +1,7 @@
 ![Node.js](https://img.shields.io/badge/node.js-100%25-green)
 ![GitHub top language](https://img.shields.io/github/languages/top/Ramy-Badr-Ahmed/node-tls?color=yellow)
-![GitHub](https://img.shields.io/github/license/Ramy-Badr-Ahmed/node-tls?color=red)
+![GitHub](https://img.shields.io/github/license/Ramy-Badr-Ahmed/node-tls?color=lightblue)
+
 
 # TLS Communication with Node.js
 
