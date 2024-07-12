@@ -1,0 +1,16 @@
+{
+  "name": "tls-server-client",
+  "version": "1.0.0",
+  "main": "tlsServer.js",
+  "scripts": {
+    "start-server": "node tlsServer.js",
+    "start-client": "node tlsClient.js"
+  },
+  "keywords": [],
+  "author": "Ramy-Badr-Ahmed",
+  "description": "A TLS server and client implementation using Node.js.",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "uuid": "^10.0.0"
+  }
+}

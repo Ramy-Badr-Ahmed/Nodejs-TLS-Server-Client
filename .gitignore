@@ -1,0 +1,3 @@
+node_modules/
+Certs/client/*.pem
+Certs/server/*.pem
