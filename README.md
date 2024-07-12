@@ -8,6 +8,8 @@ A TLS server and client implementation using Node.js's tls module, operating at 
 
 This implementation focuses on encrypted and authenticated communication, suitable for secure and trusted networks.
 
+The TCP variant is located here: [Node-TCP](https://github.com/Ramy-Badr-Ahmed/node-tcp)
+
 #### Use Cases:
 
 - Network Security
