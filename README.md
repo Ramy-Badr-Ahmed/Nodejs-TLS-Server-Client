@@ -61,3 +61,7 @@ node tlsClient.js   # Runs Client
 Logs and Outputs:
 
 The server and client will log various events and actions, such as connection establishment, data transmission, handshake report, session management, and encountered errors.
+
+References
+
+- [TLS (SSL) Module](https://nodejs.org/api/tls.html)
