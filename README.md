@@ -1,4 +1,4 @@
-![NODE.JS](https://img.shields.io/badge/NODE.JS-%2343853D.svg?&style=plastic&logo=node.js&logoColor=white)
+![NODE.JS](https://img.shields.io/badge/NODE.JS-%2343853D.svg?&style=plastic&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=f7df1e)
 
 ![GitHub top language](https://img.shields.io/github/languages/top/Ramy-Badr-Ahmed/node-tls?color=yellow)
 ![GitHub](https://img.shields.io/github/license/Ramy-Badr-Ahmed/node-tls?color=lightblue)
