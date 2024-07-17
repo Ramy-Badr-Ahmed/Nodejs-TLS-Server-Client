@@ -8,7 +8,7 @@ A TLS server and client implementation using Node.js's tls module, operating at 
 
 This implementation focuses on encrypted and authenticated communication, suitable for secure and trusted networks.
 
-The TCP variant (Transport Layer of the OSI Model) is located here: [Node-TCP](https://github.com/Ramy-Badr-Ahmed/node-tcp)
+The TCP variant (@Transport-Layer of the OSI Model) is located here: [Node-TCP](https://github.com/Ramy-Badr-Ahmed/node-tcp)
 
 #### Use Cases:
 
