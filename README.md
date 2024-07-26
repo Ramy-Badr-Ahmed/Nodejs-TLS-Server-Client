@@ -18,11 +18,11 @@ The TCP variant (@Transport-Layer of the OSI Model) is located here: [Node-TCP](
 
 - Secure Embedded Systems Communication
 
-    > Integrate TLS client with embedded devices (e.g., Raspberry Pi, Arduino with Ethernet/Wi-Fi shields) to send data securely to a central server for monitoring and control.
+    > Integrate TLS client with embedded devices (e.g., Raspberry Pi, Arduino with Ethernet/Wi-Fi shields) to send data securely to a central server (for monitoring and control).
 
 - Secure Time Synchronization
 
-    > Use the server to provide a timestamp service for devices on a network, ensuring synchronized time across various systems with TLS security.
+    > Use the server to provide a timestamp service for devices on a network (ensure synchronized time across various systems with TLS security).
 
 - Secure IoT Applications
 
