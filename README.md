@@ -1,6 +1,6 @@
-![NODE.JS](https://img.shields.io/badge/NODE.JS-%2343853D.svg?&style=plastic&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=f7df1e)
+![NODE.JS](https://img.shields.io/badge/NODE.JS-%2343853D.svg?&style=plastic&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=f7df1e) ![GitHub](https://img.shields.io/github/license/Ramy-Badr-Ahmed/nodejs-tls_server-client?color=green&style=plastic)
 
-[![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:8017c373f704257957a1cc9b5044c7347651b899/)](https://archive.softwareheritage.org/swh:1:dir:8017c373f704257957a1cc9b5044c7347651b899;origin=https://github.com/Ramy-Badr-Ahmed/node-tls;visit=swh:1:snp:eec57a10aaa0a231ac22e6c8a476c167a0669b66;anchor=swh:1:rev:0b48c4c274fb30ea4c7913f1d77083f9e2baa888) ![GitHub](https://img.shields.io/github/license/Ramy-Badr-Ahmed/nodejs-tls_server-client?color=green)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12808908.svg)](https://doi.org/10.5281/zenodo.12808908) [![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:8017c373f704257957a1cc9b5044c7347651b899/)](https://archive.softwareheritage.org/swh:1:dir:8017c373f704257957a1cc9b5044c7347651b899;origin=https://github.com/Ramy-Badr-Ahmed/node-tls;visit=swh:1:snp:eec57a10aaa0a231ac22e6c8a476c167a0669b66;anchor=swh:1:rev:0b48c4c274fb30ea4c7913f1d77083f9e2baa888) 
 
 # TLS Communication with Node.js
 
